@@ -1,3 +1,0 @@
-# OpenHanse
-
-Welcome to `OpenHanse`!
